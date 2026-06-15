@@ -17,7 +17,7 @@ devtools::install_github("rxie24/CAMSIBComBat")
 The package can then by loaded in R as follows:
 
 ```r
-library(CAMSIBComBat
+library(CAMSIBComBat)
 ```
 
 Example of implementation of each functioncan be found in the package documentation.
