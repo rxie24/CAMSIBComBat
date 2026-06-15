@@ -20,7 +20,7 @@ The package can then by loaded in R as follows:
 library(CAMSIBComBat)
 ```
 
-Example of implementation of each functioncan be found in the package documentation.
+Example of implementation of each function can be found in the package documentation.
 
 ## Citation (APA)
 
