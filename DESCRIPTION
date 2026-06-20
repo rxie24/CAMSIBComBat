@@ -11,3 +11,7 @@ RoxygenNote: 7.3.3
 Depends: 
     R (>= 3.5)
 LazyData: true
+Imports:
+    neuroCombat
+Remotes:
+    github::jfortin1/neuroCombat_Rpackage
