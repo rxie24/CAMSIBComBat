@@ -13,5 +13,6 @@ Depends:
 LazyData: true
 Imports:
     neuroCombat
+    parallel
 Remotes:
     github::jfortin1/neuroCombat_Rpackage
