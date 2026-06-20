@@ -1,3 +1,7 @@
+**Maintainer**: Ryan Xie, ryan.xie@pennmedicine.upenn.edu
+
+**License**: Artistic License 2.0
+
 ## Overview
 
 The **CAMSIBComBat** R package contains the **cam_combat** and **sib_combat** functions which implement Covariance-Aware Multivariate (CAM) ComBat and and Spatially-Informated Iterative Block (SIB) ComBat, respectively. These are methods for harmonizing neuroimaging data.
